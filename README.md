@@ -1,9 +1,18 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e066ff"/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Follow-4-66ffe0?style=for-the-badge&logo=github&logoColor=white&color=e066ff" alt="Followers">
   <img src="https://img.shields.io/badge/Stars-10-66ffe0?style=for-the-badge&logo=github&logoColor=white&color=e066ff" alt="Total Stars">
   <img src="https://komarev.com/ghpvc/?username=nataliaberbetviana&style=for-the-badge&label=VIEWS&color=e066ff&labelColor=66ffe0" alt="Profile Views">
+</p>
+
+<br>
+
+<p align= 'center' width='100'>
+  <a href="https://github.com/nataliaberbetviana">
+    <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e066ff&width=435&lines=💖+Análise+de+Dados+|+Data+Science;💖+Python+%7C+SQL+%7C+AWS+%7C+R+%7C+Jupyter+💖;💖+Solucionando+Problemas+com+Dados!+💖" alt="Typing SVG" />
+</div>
+  </a>
 </p>
 
 <br>
@@ -22,16 +31,6 @@ Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados,
 
 <br>
 
-<p align= 'center' width='100'>
-  <a href="https://github.com/nataliaberbetviana">
-    <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e066ff&width=435&lines=💖+Análise+de+Dados+|+Data+Science;💖+Python+%7C+SQL+%7C+AWS+%7C+R+%7C+Jupyter+💖;💖+Solucionando+Problemas+com+Dados!+💖" alt="Typing SVG" />
-</div>
-  </a>
-</p>
-
-<br>
-      
 <div align="center">
   <img  width=450 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nataliaberbetviana&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka&locale=pt-br&border_color=e066ff"/>
   <img  width=403 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaberbetviana&layout=compact&font=Iosevka&langs_count=16&theme=omni&locale=pt-br&border_color=e066ff"/>
