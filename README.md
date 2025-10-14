@@ -2,7 +2,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" width='100'>
   
   <b>`Data Science | Data Analist`</b>
   <samp>
@@ -11,9 +11,14 @@
   </samp>
 </div>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=e066ff&width=900&size=20&center=true&lines=Olá,+ 🇧🇷 !;Aprendendo+dados+com+Python;Construindo+soluções+na+nuvem+☁️;Vamos+transformar+dados+em+decisões+estratégicas!;Vem+comigo!" alt="Typing SVG"/>
+<p align= 'center' width='100'>
+  <a href="https://github.com/nataliaberbetviana">
+    <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=💖+Análise+de+Dados+|+Data+Science;💖+Python+%7C+SQL+%7C+AWS+%7C+R+%7C+Jupyter+💖;💖+Solucionando+Problemas+com+Dados!+💖" alt="Typing SVG" />
 </div>
+  </a>
+</p>
+
 
 <br>
       
