@@ -31,10 +31,17 @@
   <a href="https://github.com/nataliaberbetviana">
     <img width="853" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaberbetviana&theme=omni&locale=pt-br&border_color=e066ff">
   </a>
-  <div align="center">
+  <!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
-</div>
+</div> -->
   
+<br>
+<br>
+
+<div align="center">
+  <img padding-left=15px width=853 src="https://github-profile-trophy.vercel.app/?username=nataliaberbetviana&theme=dracula" alt="GitHub Trophies" />
+</div>
+
 </div>
 
 
@@ -48,7 +55,11 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"  />
   <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
-  
+  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> 
+  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/> 
+  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
+  <img width="40"  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> 
+    
 </div>
 
 <br>
