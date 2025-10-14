@@ -1,7 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=e066ff"/>
 
-![Visualizações](https://komarev.com/ghpvc/?username=nataliaberbetviana)
+<p align="center">
+  <img src="https://img.shields.io/badge/Follow-4-66ffe0?style=for-the-badge&logo=github&logoColor=white&color=e066ff" alt="Followers">
+  <img src="https://img.shields.io/badge/Stars-10-66ffe0?style=for-the-badge&logo=github&logoColor=white&color=e066ff" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=nataliaberbetviana&style=for-the-badge&label=VIEWS&color=e066ff&labelColor=66ffe0" alt="Profile Views">
+</p>
 
+<br>
 
 <div align="center" width='100'>
     
