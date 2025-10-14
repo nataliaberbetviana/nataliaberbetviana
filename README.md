@@ -32,8 +32,8 @@ Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados,
 <br>
 
 <div align="center">
-  <img  width=450 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nataliaberbetviana&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka&locale=pt-br&border_color=e066ff"/>
-  <img  width=403 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaberbetviana&layout=compact&font=Iosevka&langs_count=16&theme=omni&locale=pt-br&border_color=e066ff"/>
+  <img  height=200 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=nataliaberbetviana&show_icons=true&count_private=true&rank_icon=github&theme=omni&font=Iosevka&locale=pt-br&border_color=e066ff"/>
+  <img  height=200 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaberbetviana&layout=compact&font=Iosevka&langs_count=16&theme=omni&locale=pt-br&border_color=e066ff"/>
   <br>
   <br>
   <a href="https://github.com/nataliaberbetviana">
