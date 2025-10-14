@@ -11,11 +11,16 @@
 <div align="center" width='100'>
     
   <b>`Data Science | Data Analist`</b>
-  <samp>
-      <br>
-      Oi! Eu sou <b>Natalia Berbet Viana</b>
-  </samp>
+ <div align="center">
+  <h2>Oi! Eu sou <b>Natalia Berbet Viana</b></h2>
 </div>
+</div>
+
+<p align='center'>
+Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados, e este é o meu portfólio de experimentos, descobertas e projetos. Estou sempre em busca do próximo desafio para evoluir e construir algo incrível.
+</p>
+
+<br>
 
 <p align= 'center' width='100'>
   <a href="https://github.com/nataliaberbetviana">
@@ -24,7 +29,6 @@
 </div>
   </a>
 </p>
-
 
 <br>
       
