@@ -82,6 +82,7 @@ Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados,
   <br>
   <br>
 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6e3a5d?style=for-the-badge&logo=google-chrome&logoColor=e066ff)](https://nataliaberbetviana.github.io/)
   [![Gmail](https://img.shields.io/badge/Gmail-6e3a5d?style=for-the-badge&logo=gmail&logoColor=e066ff)](mailto:nabevia@gmail.com)
   [![Linkedin](https://img.shields.io/badge/LinkedIn-6e3a5d?style=for-the-badge&logo=linkedin&logoColor=e066ff)](https://www.linkedin.com/in/nataliaberbetviana)
   
