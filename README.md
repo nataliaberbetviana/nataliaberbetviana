@@ -10,7 +10,7 @@
 <p align= 'center' width='100'>
   <a href="https://github.com/nataliaberbetviana">
     <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e066ff&width=435&lines=💖+Análise+de+Dados+|+Data+Science;💖+Python+%7C+SQL+%7C+AWS+%7C+R+%7C+Jupyter+💖;💖+Solucionando+Problemas+com+Dados!+💖" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e066ff&width=435&lines=💖+Análise+de+Dados+|+Data+Science;Python+%7C+Streamlit+%7C+Supabase+%7C+AWS;💖+Solucionando+Problemas+com+Dados!+💖" alt="Typing SVG" />
 </div>
   </a>
 </p>
@@ -19,7 +19,7 @@
 
 <div align="center" width='100'>
     
-  <b>`Data Science | Data Analist`</b>
+  <b>`Data Science | Data Analyst`</b>
  <div align="center">
   <h2>Oi! Eu sou <b>Natalia Berbet Viana</b></h2>
 </div>
@@ -39,9 +39,6 @@ Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados,
   <a href="https://github.com/nataliaberbetviana">
     <img width="740" alt="Top Language" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nataliaberbetviana&theme=omni&locale=pt-br&border_color=e066ff">
   </a>
-  <!-- <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak">
-</div> -->
   
 <br>
 <br>
@@ -61,17 +58,22 @@ Bem-vindo(a) à minha jornada de aprendizado! Decidi abraçar o mundo dos dados,
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"  />
-  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
-  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> 
-  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/> 
-  <img width="40"  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
-  <img width="40"  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/> 
-    
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" /> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" /> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/> 
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/> 
+  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"/>    
 </div>
 
 <br>
 <br>
+
+<div align="center">
+  <p><b>Destaque: <a href="https://github.com/nataliaberbetviana/PyTrain">PyTrain PRO</a></b> - App de gestão de treinos com Python, Streamlit e Supabase Cloud.</p>
+</div>
 
 <div align="center">
   <samp>
